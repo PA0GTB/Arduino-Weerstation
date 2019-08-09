@@ -7,3 +7,6 @@ Via Buienradar wordt de eventuele regeinformatie gedownload en getoond in milime
 In het geval van vorst, wordt dit via een aparte witte Led aangegeven
 
 In de bijlagen zijn de benamingen en codes van de officiele KNMI stations vermeld alsmede de kaartcoordinaten
+In de bijlage bevindt zich ook het schema en de onderdelenlijst
+
+Er wordt gebruik gemaakt van de TFT_eSPI library
