@@ -6,3 +6,4 @@ Tevens wordt het actuele regionaal geldende weeralarm opgehaald en getoond via k
 Via Buienradar wordt de eventuele regeinformatie gedownload en getoond in milimeters per uur (mmu)
 In het geval van vorst, wordt dit via een aparte witte Led aangegeven
 
+In de bijlagen zijn de benamingen en codes van de officiele KNMI stations vermeld alsmede de kaartcoordinaten
