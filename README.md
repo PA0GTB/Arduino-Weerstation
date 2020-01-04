@@ -12,4 +12,4 @@ In de bijlagen bevinden zich ook het schema en de onderdelenlijst
 
 Er wordt gebruik gemaakt van de TFT_eSPI library
 
-sketch geupdated in novermber 2019 ivm enkele typo's
+sketch geupdated in november 2019 ivm enkele typo's
