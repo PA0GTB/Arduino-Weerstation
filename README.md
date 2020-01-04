@@ -11,3 +11,5 @@ In de bijlagen zijn de benamingen en codes van de officiele KNMI stations vermel
 In de bijlagen bevinden zich ook het schema en de onderdelenlijst
 
 Er wordt gebruik gemaakt van de TFT_eSPI library
+
+sketch geupdated in novermber 2019 ivm enkele typo's
